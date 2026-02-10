@@ -3,9 +3,9 @@
 
 <empresa>
     <empleado>
-        <nombre>Conor mcgregor</nombre>
+        <nombre>Dani Chaves</nombre>
         <id>004</id>
-        <cargo>desarrollador</cargo>
-        <salario>2200</salario>
+        <cargo>desarrollador totalmente nulo</cargo>
+        <salario>0,00000000001</salario>
     </empleado>
 </empresa>
