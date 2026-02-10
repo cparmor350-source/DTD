@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE empresa SYSTEM "empleados_mixto.dtd" [
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT id (#PCDATA)>
+    <!ELEMENT cargo (#PCDATA)>
+    <!ELEMENT salario (#PCDATA)>
+]>
+
+<empresa>
+    <empleado>
+        <nombre>Dustin Poirier</nombre>
+        <id>003</id>
+        <cargo>Gerente</cargo>
+        <salario>4500</salario>
+    </empleado>
+</empresa>

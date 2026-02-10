@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<empresa>
+    <empleado>
+        <nombre>Carlos Parrilla</nombre>
+        <id>001</id>
+        <cargo>director</cargo>
+        <salario>15000</salario>
+    </empleado>
+    <empleado>
+        <nombre>Agustino</nombre>
+        <id>002</id>
+        <cargo>Desarrollador</cargo>
+        <salario>2200</salario>
+    </empleado>
+</empresa>
+

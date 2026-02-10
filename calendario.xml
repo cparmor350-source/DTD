@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE calendario SYSTEM "calendario.dtd">
+
+<calendario>
+    <evento>
+        <titulo>Reunion de Proyecto</titulo>
+        <fecha>2026-02-21</fecha>
+        <descripcion>Revision de avances de laa empresa</descripcion>
+        <ubicacion>Sala 7</ubicacion>
+    </evento>
+</calendario>

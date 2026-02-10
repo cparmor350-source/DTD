@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE empresa SYSTEM "empleados.dtd">
+
+<empresa>
+    <empleado>
+        <nombre>Conor mcgregor</nombre>
+        <id>004</id>
+        <cargo>desarrollador</cargo>
+        <salario>2200</salario>
+    </empleado>
+</empresa>

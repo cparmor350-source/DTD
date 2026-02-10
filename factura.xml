@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE factura SYSTEM "factura.dtd">
+
+<factura>
+    <fecha>2026-02-10</fecha>
+    <cliente>
+        <nombre>Joselito</nombre>
+        <direccion>juan sebastian el cano</direccion>
+    </cliente>
+    <productos>
+        <producto>
+            <nombre>Teclado</nombre>
+            <cantidad>2</cantidad>
+            <precio>44,15</precio>
+        </producto>
+    </productos>
+</factura>

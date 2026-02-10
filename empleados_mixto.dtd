@@ -1,0 +1,2 @@
+<!ELEMENT empresa (empleado+)>
+<!ELEMENT empleado (nombre, id, cargo, salario)>
